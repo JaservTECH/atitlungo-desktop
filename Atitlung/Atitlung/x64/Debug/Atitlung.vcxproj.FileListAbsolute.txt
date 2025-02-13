@@ -1,0 +1,3 @@
+D:\Git\atitlungo-desktop\Atitlung\Atitlung\x64\Debug\Atitlung.vcxproj.AssemblyReference.cache
+D:\Git\atitlungo-desktop\Atitlung\Atitlung\x64\Debug\Atitlung.MainForm.resources
+D:\Git\atitlungo-desktop\Atitlung\Atitlung\x64\Debug\Atitlung.vcxproj.GenerateResource.cache
